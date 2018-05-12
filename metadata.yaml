@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33724'
     url: http://www.gutenberg.org/2009/agents/33724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29151#TelepathyGenuine-and-Fraudulent
 gutenberg_issued: '2009-06-17'
 gutenberg_type: Text
 identifiers:
